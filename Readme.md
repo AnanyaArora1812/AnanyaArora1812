@@ -1,87 +1,94 @@
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt" />
 </div>
 
-<h2 align="left">Hey 👋 I'm Ananya!<br>Building Intelligence where others see data.</h2>
+<h1 align="center">Hey 👋 I'm Ananya Arora</h1>
 
-<br clear="both">
-
-<p align="left">
-My name is Ananya Arora, and I'm a Data Science & ML enthusiast from India — with AI in my mind and Python guiding my craft.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;AI+Builder;Python+Developer+🐍" />
 </p>
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnanyaArora1812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AnanyaArora1812&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&border_radius=10" />
+---
 
-</div>
+## 🧠 About Me
+💡 Data Science & Machine Learning Enthusiast from India  
+🤖 Passionate about Artificial Intelligence & Automation  
+📊 Love exploring real-world datasets  
+🚀 Building impactful tech projects  
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananya-arora-a0b925327)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananyaarora1812@gmail.com)
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="./metrics.svg" width="100%" />
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+## ⚡ GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnanyaArora1812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AnanyaArora1812&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaArora1812&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnanyaArora1812&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=AnanyaArora1812&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaArora1812&theme=tokyonight&hide_border=false&layout=compact)
+## 🌌 3D Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanyaArora1812&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 🧠 AI Command Center
-- 🤖 Working with Machine Learning & AI tools  
-- 📊 Exploring real-world datasets  
-- 🔍 Interested in data pipelines & automation  
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnanyaArora1812/AnanyaArora1812/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 💼 Flagship Projects
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres,gcp" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black"/>
+</p>
+
+---
+
+## 💼 Projects
 
 ### 📊 Netflix Data Analysis
-- Analyzed 10,000+ records using Python & Pandas  
-- Found trends in content, genres & growth  
-- Data visualization using Matplotlib  
-
+✔ Analyzed 10,000+ records using Python & Pandas  
+✔ Identified trends in content, genres & growth  
+✔ Data visualization using Matplotlib  
 
 ---
 
-## 🏅 Certifications & Achievements
-- 🏆 Google Cloud Arcade Novice Tier Winner  
+## 🏆 Achievements
+🏅 Google Cloud Arcade Novice Tier Winner  
 
 ---
 
 ## 🌐 Connect With Me
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/ananya-arora-a0b925327">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="mailto:ananyaarora1812@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnanyaArora1812&theme=tokyo-night)
-
----
-
 ## 💡 Quote
-"Consistency + Projects = Success 🚀"
+✨ *Consistency + Projects = Success 🚀*
