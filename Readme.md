@@ -11,7 +11,9 @@ My name is Ananya Arora, and I'm a Data Science & ML enthusiast from India — w
 </p>
 
 <div align="center">
-  <img height="364" src="https://static.vecteezy.com/system/resources/previews/024/110/454/original/concept-ai-machine-learning-artificial-intelligence-robot-learning-network-system-advance-ai-on-blue-futuristic-modern-hi-tech-background-vector.jpg"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnanyaArora1812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AnanyaArora1812&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&border_radius=10" />
+
 </div>
 
 ---
