@@ -42,7 +42,7 @@
 
 | Category | Tools |
 |---|---|
-| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp" /> |
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /> |
 | 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
 | 🌐 **Web & Backend** | <img src="https://skillicons.dev/icons?i=html,css,js,fastapi" /> <br> SQLAlchemy • Pydantic • Uvicorn • APScheduler • OpenStreetMap • Browser Push API • Fetch API |
 | 📊 **Data & Analysis** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
@@ -57,31 +57,28 @@
 | # | Project | What it does | Tech | Repo |
 |---|---|---|---|---|
 | 1 | **PrashnaAI** | Domain-specific RAG system for astrology: OCR-based PDF ingestion, FAISS retrieval and local LLaMA generation (LoRA fine-tuning planned) | Python, FAISS, LLaMA, OCR | [View](https://github.com/AnanyaArora1812/PrashnaAI) |
-| 2 | **ARES: Autonomous Response & Emergency System** | AI-powered emergency coordination platform that turns fragmented disaster information (floods, earthquakes, building collapses, train accidents, industrial emergencies) into one command center. It verifies incoming reports, prioritizes incidents and supports resource-allocation decisions in real time | Python, Generative AI, AI Agents (Strands), Computer Vision, AWS (Lambda, S3, DynamoDB, API Gateway, SageMaker, OpenSearch) | [View](✏️REPO-LINK) |
-| 3 | **SCHEME-GATI** | Government help portal for citizens. People upload a photo of road damage or any civic problem, and an ML model classifies its severity (critical, very important, important) so authorities can act on the most urgent issues first. It shows reports on a map and sends push notifications | Machine Learning, FastAPI, SQLAlchemy, JavaScript, OpenStreetMap, Browser Push API | [View](https://github.com/AnanyaArora1812/SCHEME-GATI) |
+| 2 | **ARES: Autonomous Response & Emergency System** | AI-powered emergency coordination platform that turns fragmented disaster information (floods, earthquakes, building collapses, train accidents, industrial emergencies) into one command center. It verifies incoming reports, prioritizes incidents and supports resource-allocation decisions in real time. Built for the Amazon ML Challenge | Python, Generative AI, AI Agents (Strands), Computer Vision, AWS (Lambda, S3, DynamoDB, API Gateway, SageMaker, OpenSearch) | [View](REPO_LINK_ARES) |
+| 3 | **SCHEME-GATI** | Government help portal for citizens. People upload a photo of road damage or any civic problem, and an ML model classifies its severity (critical, very important, important) so authorities can act on the most urgent issues first. It shows reports on a map and sends push notifications. Built for HackXtreme, GGSIPU Delhi | Machine Learning, FastAPI, SQLAlchemy, JavaScript, OpenStreetMap, Browser Push API | [View](https://github.com/AnanyaArora1812/SCHEME-GATI) |
 | 4 | **Titanic Data Analysis & EDA Pipeline** | Data cleaning, preprocessing, statistical analysis and visualization of the Titanic dataset | Python, Pandas, NumPy, Matplotlib | [View](https://github.com/AnanyaArora1812/Titanic-Data-Analysis-and-EDA-Pipeline) |
-| 5 | **Superstore Dashboard** | ✏️ Interactive Power BI dashboard analyzing sales, profit and customer insights | Power BI | [View](✏️REPO-LINK) |
-| 6 | **Netflix Data Analysis** | Analyzed 10,000+ records to find trends in content, genres and growth | Python, Pandas, Matplotlib | [View](✏️REPO-LINK) |
+| 5 | **Superstore Dashboard** | Interactive Power BI dashboard analyzing sales, profit and customer insights | Power BI | [View](REPO_LINK_SUPERSTORE) |
+| 6 | **Netflix Data Analysis** | Analyzed 10,000+ records to find trends in content, genres and growth | Python, Pandas, Matplotlib | [View](REPO_LINK_NETFLIX) |
 | 7 | **RaktJaal** | Hyperlocal blood donor matching with distance- and urgency-based alerts, replacing WhatsApp forwards (team student project) | React, Vite | [View](https://github.com/AnanyaArora1812/RaktJaal) |
-| 8 | **NGO Survey Page** | ✏️ One line on what it does | ✏️ Tech used | [View](✏️REPO-LINK) |
-| 9 | **KDSH 2026 Project** | ✏️ One line on the problem solved at Kharagpur Data Science Hackathon | ✏️ Tech used | [View](✏️REPO-LINK) |
-| 10 | **LeetCode** | Problem-solving practice | Python | [View](https://github.com/AnanyaArora1812/LeetCode) |
+| 8 | **LeetCode** | Data structures and algorithms practice | Java, Python | [View](https://github.com/AnanyaArora1812/LeetCode) |
 | ➕ | **And more...** | Explore all my work | | [All repositories](https://github.com/AnanyaArora1812?tab=repositories) |
 
 ---
 
-## 🚀 Hackathons & Competitions
+## 🚀 Hackathons
 
-| Event | Organizer | Team | Project built | Result | Date |
-|---|---|---|---|---|---|
-| HackXtreme | GGSIPU, Delhi | Code Garage | [SCHEME-GATI](https://github.com/AnanyaArora1812/SCHEME-GATI) | Participant | Nov 2026 |
-| Kharagpur Data Science Hackathon (KDSH) 2026 | IIT Kharagpur | ananyaarora1812 | [KDSH 2026 Project](✏️REPO-LINK) | Participant | Oct 2026 |
-| HackIndia Spark 6 @ NIT Delhi (Bellatrix 2026) | NIT Delhi | INFINITY | ✏️ | Participant | Oct 2026 |
-| Hack Devengers 2.0 | Devengers | - | ✏️ | Participant | Sep 2026 |
-| Bharat Builds Tour: First Commit (Event 01) | WeMakeDevs with AWS | - | ✏️ | Participant, shipped a project | Sep 2026 |
-| ISRO Bharatiya Antariksh Hackathon 2026 | ISRO, powered by Hack2skill | - | ✏️ | Participant, idea submission | Aug 2026 |
-| Amazon ML Challenge | Amazon | - | [ARES](✏️REPO-LINK) | ✏️ | ✏️ |
-| Convolve 4.0, Pan-IIT AI/ML Hackathon | IIT Guwahati (Unstop Holiday Fest 2025) | - | ✏️ | Participant | Feb 2026 |
+| Event | Organizer | Team | Date |
+|---|---|---|---|
+| HackXtreme | GGSIPU, Delhi | Code Garage | Nov 2026 |
+| Kharagpur Data Science Hackathon (KDSH) 2026 | IIT Kharagpur | ananyaarora1812 | Oct 2026 |
+| HackIndia Spark 6 @ NIT Delhi (Bellatrix 2026) | NIT Delhi | INFINITY | Oct 2026 |
+| Hack Devengers 2.0 | Devengers | Individual | Sep 2026 |
+| Bharat Builds Tour: First Commit (Event 01) | WeMakeDevs with AWS | Individual | Sep 2026 |
+| ISRO Bharatiya Antariksh Hackathon 2026 | ISRO, powered by Hack2skill | Individual | Aug 2026 |
+| Convolve 4.0, Pan-IIT AI/ML Hackathon | IIT Guwahati (Unstop Holiday Fest 2025) | Individual | Feb 2026 |
 
 ---
 
@@ -109,11 +106,12 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Memberships
 
-| Achievement | Issued by | Link |
+| | Issued by / Organization | Link |
 |---|---|---|
 | 🏅 Google Cloud Arcade, Novice Tier Winner | Google Cloud | [Google Skills profile](https://www.skills.google/public_profiles/cb8d743b-45b9-4cb1-a0d2-c6d7ec6c4b5e) |
+| 🤝 Member, Association for Computing Machinery (ACM) | ACM, international computing community | [acm.org](https://www.acm.org) |
 
 ---
 
