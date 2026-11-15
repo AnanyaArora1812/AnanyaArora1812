@@ -27,10 +27,101 @@
 ---
 
 ## 🧠 About Me
-💡 Data Science & Machine Learning Enthusiast from India  
-🤖 Passionate about Artificial Intelligence & Automation  
-📊 Love working with real-world datasets and extracting insights  
-🚀 Focused on building impactful, data-driven solutions  
+
+| | |
+|---|---|
+| 🎓 **Education** | Pre-final year B.Tech student at Pranveer Singh Institute of Technology (PSIT), Kanpur |
+| 📚 **Specialization** | Data Science |
+| 🔭 **Interests** | Playing with real-world data, Machine Learning, AI & Automation |
+| 🌱 **Currently exploring** | AI agents, RAG systems, AWS & Google Cloud, AI model deployment |
+| 🎯 **Open to** | Internships and collaborations in Data Science / ML |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp" /> |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
+| 🌐 **Web & Backend** | <img src="https://skillicons.dev/icons?i=html,css,js,fastapi" /> <br> SQLAlchemy • Pydantic • Uvicorn • APScheduler • OpenStreetMap • Browser Push API • Fetch API |
+| 📊 **Data & Analysis** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| 🤖 **AI / ML** | Generative AI • AI Agents • Machine Learning • Computer Vision • Predictive Analytics • RAG • FAISS • LLaMA • OCR |
+| ☁️ **Cloud** | <img src="https://skillicons.dev/icons?i=aws,gcp" /> <br> Lambda • S3 • DynamoDB • API Gateway • SageMaker • OpenSearch • EventBridge • SQS |
+| 🔧 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+
+---
+
+## 💼 Projects
+
+| # | Project | What it does | Tech | Repo |
+|---|---|---|---|---|
+| 1 | **PrashnaAI** | Domain-specific RAG system for astrology: OCR-based PDF ingestion, FAISS retrieval and local LLaMA generation (LoRA fine-tuning planned) | Python, FAISS, LLaMA, OCR | [View](https://github.com/AnanyaArora1812/PrashnaAI) |
+| 2 | **ARES: Autonomous Response & Emergency System** | AI-powered emergency coordination platform that turns fragmented disaster information (floods, earthquakes, building collapses, train accidents, industrial emergencies) into one command center. It verifies incoming reports, prioritizes incidents and supports resource-allocation decisions in real time | Python, Generative AI, AI Agents (Strands), Computer Vision, AWS (Lambda, S3, DynamoDB, API Gateway, SageMaker, OpenSearch) | [View](✏️REPO-LINK) |
+| 3 | **SCHEME-GATI** | Government help portal for citizens. People upload a photo of road damage or any civic problem, and an ML model classifies its severity (critical, very important, important) so authorities can act on the most urgent issues first. It shows reports on a map and sends push notifications | Machine Learning, FastAPI, SQLAlchemy, JavaScript, OpenStreetMap, Browser Push API | [View](https://github.com/AnanyaArora1812/SCHEME-GATI) |
+| 4 | **Titanic Data Analysis & EDA Pipeline** | Data cleaning, preprocessing, statistical analysis and visualization of the Titanic dataset | Python, Pandas, NumPy, Matplotlib | [View](https://github.com/AnanyaArora1812/Titanic-Data-Analysis-and-EDA-Pipeline) |
+| 5 | **Superstore Dashboard** | ✏️ Interactive Power BI dashboard analyzing sales, profit and customer insights | Power BI | [View](✏️REPO-LINK) |
+| 6 | **Netflix Data Analysis** | Analyzed 10,000+ records to find trends in content, genres and growth | Python, Pandas, Matplotlib | [View](✏️REPO-LINK) |
+| 7 | **RaktJaal** | Hyperlocal blood donor matching with distance- and urgency-based alerts, replacing WhatsApp forwards (team student project) | React, Vite | [View](https://github.com/AnanyaArora1812/RaktJaal) |
+| 8 | **NGO Survey Page** | ✏️ One line on what it does | ✏️ Tech used | [View](✏️REPO-LINK) |
+| 9 | **KDSH 2026 Project** | ✏️ One line on the problem solved at Kharagpur Data Science Hackathon | ✏️ Tech used | [View](✏️REPO-LINK) |
+| 10 | **LeetCode** | Problem-solving practice | Python | [View](https://github.com/AnanyaArora1812/LeetCode) |
+| ➕ | **And more...** | Explore all my work | | [All repositories](https://github.com/AnanyaArora1812?tab=repositories) |
+
+---
+
+## 🚀 Hackathons & Competitions
+
+| Event | Organizer | Team | Project built | Result | Date |
+|---|---|---|---|---|---|
+| HackXtreme | GGSIPU, Delhi | Code Garage | [SCHEME-GATI](https://github.com/AnanyaArora1812/SCHEME-GATI) | Participant | Nov 2026 |
+| Kharagpur Data Science Hackathon (KDSH) 2026 | IIT Kharagpur | ananyaarora1812 | [KDSH 2026 Project](✏️REPO-LINK) | Participant | Oct 2026 |
+| HackIndia Spark 6 @ NIT Delhi (Bellatrix 2026) | NIT Delhi | INFINITY | ✏️ | Participant | Oct 2026 |
+| Hack Devengers 2.0 | Devengers | - | ✏️ | Participant | Sep 2026 |
+| Bharat Builds Tour: First Commit (Event 01) | WeMakeDevs with AWS | - | ✏️ | Participant, shipped a project | Sep 2026 |
+| ISRO Bharatiya Antariksh Hackathon 2026 | ISRO, powered by Hack2skill | - | ✏️ | Participant, idea submission | Aug 2026 |
+| Amazon ML Challenge | Amazon | - | [ARES](✏️REPO-LINK) | ✏️ | ✏️ |
+| Convolve 4.0, Pan-IIT AI/ML Hackathon | IIT Guwahati (Unstop Holiday Fest 2025) | - | ✏️ | Participant | Feb 2026 |
+
+---
+
+## 📜 Certificates
+
+### 🚀 Hackathon Certificates
+
+| Event | Organizer | Date | Certificate |
+|---|---|---|---|
+| HackXtreme | GGSIPU, Delhi | Nov 2026 | [View](certificates/hackxtreme.jpeg) |
+| Kharagpur Data Science Hackathon (KDSH) 2026 | IIT Kharagpur | Oct 2026 | [View](certificates/kdsh-2026.jpeg) |
+| HackIndia Spark 6 @ NIT Delhi | NIT Delhi | Oct 2026 | [View](certificates/hackindia-spark6.jpeg) |
+| Hack Devengers 2.0 | Devengers | Sep 2026 | [View](certificates/hack-devengers-2.jpeg) |
+| Bharat Builds Tour: First Commit | WeMakeDevs with AWS | Sep 2026 | [View](certificates/bharat-builds-first-commit.jpeg) |
+| ISRO Bharatiya Antariksh Hackathon 2026 | ISRO, powered by Hack2skill | Aug 2026 | [View](certificates/isro-bah-2026.jpeg) |
+| Convolve 4.0, Pan-IIT AI/ML Hackathon | IIT Guwahati | Feb 2026 | [View](certificates/convolve-4.jpeg) |
+
+### 📚 Course Certifications
+
+| Certificate | Issued by | Date | Link |
+|---|---|---|---|
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | Aug 2026 | [Verify on Credly](https://www.credly.com/badges/1ee0c638-591d-4b89-9ae0-2c8e57bf9556) |
+| Fundamentals of Machine Learning and Artificial Intelligence | AWS Training & Certification | Aug 2026 | [View](certificates/aws-ml-ai-fundamentals.pdf) |
+| Introduction to Generative AI: Art of the Possible | AWS Training & Certification | Aug 2026 | [View](certificates/aws-intro-generative-ai.pdf) |
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Issued by | Link |
+|---|---|---|
+| 🏅 Google Cloud Arcade, Novice Tier Winner | Google Cloud | [Google Skills profile](https://www.skills.google/public_profiles/cb8d743b-45b9-4cb1-a0d2-c6d7ec6c4b5e) |
+
+---
+
+## 📈 Current Focus
+- 🔍 Exploring advanced Machine Learning techniques  
+- ☁️ Working with AWS & Google Cloud Platform (GCP)  
+- 🤖 Building AI agents and RAG systems, learning AI model deployment  
+- 📊 Building real-world data analysis projects  
 
 ---
 
@@ -57,44 +148,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnanyaArora1812/AnanyaArora1812/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres,gcp" />
-</p>
-
-### 📚 Libraries & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black"/>
-</p>
-
----
-
-## 💼 Projects
-
-### 📊 Netflix Data Analysis
-✔ Analyzed 10,000+ records using Python & Pandas  
-✔ Identified trends in content, genres & growth  
-✔ Data visualization using Matplotlib  
-
----
-
-## 🏆 Achievements
-🏅 Google Cloud Arcade Novice Tier Winner  
-
----
-
-## 📈 Current Focus
-- 🔍 Exploring advanced Machine Learning techniques  
-- ☁️ Working with Google Cloud Platform (GCP)  
-- 📊 Building real-world data analysis projects  
-- 🤖 Learning AI model deployment  
 
 ---
 
