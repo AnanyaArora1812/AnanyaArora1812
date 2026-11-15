@@ -145,13 +145,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnanyaArora1812/AnanyaArora1812/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/ananya-arora-a0b925327">
