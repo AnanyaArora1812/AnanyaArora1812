@@ -33,6 +33,7 @@
 | 🎓 **Education** | Pre-final year B.Tech student at Pranveer Singh Institute of Technology (PSIT), Kanpur |
 | 📚 **Specialization** | Data Science |
 | 🔭 **Interests** | Playing with real-world data, Machine Learning, AI & Automation |
+| 👑 **Leadership** | Former President, ALGO Club, PSIT Kanpur |
 | 🌱 **Currently exploring** | AI agents, RAG systems, AWS & Google Cloud, AI model deployment |
 | 🎯 **Open to** | Internships and collaborations in Data Science / ML |
 
@@ -81,6 +82,14 @@
 
 ---
 
+## 👑 Leadership
+
+| Role | Organization | Institute |
+|---|---|---|
+| Former President | ALGO Club | Pranveer Singh Institute of Technology (PSIT), Kanpur |
+
+---
+
 ## 📜 Certificates
 
 ### 🚀 Hackathon Certificates
@@ -124,26 +133,21 @@
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnanyaArora1812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AnanyaArora1812&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaArora1812&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnanyaArora1812&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌌 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanyaArora1812&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/00F5FF/AnanyaArora1812" alt="Contribution graph" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnanyaArora1812/AnanyaArora1812/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AnanyaArora1812/AnanyaArora1812/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
@@ -161,4 +165,4 @@
 ---
 
 ## 💡 Quote
-✨ *Consistency + Projects = Success 🚀*
+✨ *Learn. Build. Lead.* 🚀
