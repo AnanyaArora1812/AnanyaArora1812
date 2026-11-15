@@ -57,13 +57,12 @@
 | # | Project | What it does | Tech | Repo |
 |---|---|---|---|---|
 | 1 | **PrashnaAI** | Domain-specific RAG system for astrology: OCR-based PDF ingestion, FAISS retrieval and local LLaMA generation (LoRA fine-tuning planned) | Python, FAISS, LLaMA, OCR | [View](https://github.com/AnanyaArora1812/PrashnaAI) |
-| 2 | **ARES: Autonomous Response & Emergency System** | AI-powered emergency coordination platform that turns fragmented disaster information (floods, earthquakes, building collapses, train accidents, industrial emergencies) into one command center. It verifies incoming reports, prioritizes incidents and supports resource-allocation decisions in real time. Built for the Amazon ML Challenge | Python, Generative AI, AI Agents (Strands), Computer Vision, AWS (Lambda, S3, DynamoDB, API Gateway, SageMaker, OpenSearch) | [View](REPO_LINK_ARES) |
+| 2 | **ARES: Autonomous Response & Emergency System** | AI-powered emergency coordination platform that turns fragmented disaster information (floods, earthquakes, building collapses, train accidents, industrial emergencies) into one command center. It verifies incoming reports, scores severity and recommends resource dispatch in real time. Built for the Bharat Builds Tour: First Commit hackathon (WeMakeDevs × AWS) | Python, Generative AI, AI Agents (Strands), Computer Vision, AWS (Lambda, S3, DynamoDB, API Gateway, SageMaker, OpenSearch) | [View](https://github.com/AnanyaArora1812/ARES) |
 | 3 | **SCHEME-GATI** | Government help portal for citizens. People upload a photo of road damage or any civic problem, and an ML model classifies its severity (critical, very important, important) so authorities can act on the most urgent issues first. It shows reports on a map and sends push notifications. Built for HackXtreme, GGSIPU Delhi | Machine Learning, FastAPI, SQLAlchemy, JavaScript, OpenStreetMap, Browser Push API | [View](https://github.com/AnanyaArora1812/SCHEME-GATI) |
 | 4 | **Titanic Data Analysis & EDA Pipeline** | Data cleaning, preprocessing, statistical analysis and visualization of the Titanic dataset | Python, Pandas, NumPy, Matplotlib | [View](https://github.com/AnanyaArora1812/Titanic-Data-Analysis-and-EDA-Pipeline) |
-| 5 | **Superstore Dashboard** | Interactive Power BI dashboard analyzing sales, profit and customer insights | Power BI | [View](REPO_LINK_SUPERSTORE) |
-| 6 | **Netflix Data Analysis** | Analyzed 10,000+ records to find trends in content, genres and growth | Python, Pandas, Matplotlib | [View](REPO_LINK_NETFLIX) |
-| 7 | **RaktJaal** | Hyperlocal blood donor matching with distance- and urgency-based alerts, replacing WhatsApp forwards (team student project) | React, Vite | [View](https://github.com/AnanyaArora1812/RaktJaal) |
-| 8 | **LeetCode** | Data structures and algorithms practice | Java, Python | [View](https://github.com/AnanyaArora1812/LeetCode) |
+| 5 | **Superstore Dashboard** | Interactive Power BI dashboard analyzing sales, profit and customer insights | Power BI | [View](https://github.com/AnanyaArora1812?tab=repositories) |
+| 6 | **RaktJaal** | Hyperlocal blood donor matching with distance- and urgency-based alerts, replacing WhatsApp forwards (team student project) | React, Vite | [View](https://github.com/AnanyaArora1812/RaktJaal) |
+| 7 | **LeetCode** | Data structures and algorithms practice | Java, Python | [View](https://github.com/AnanyaArora1812/LeetCode) |
 | ➕ | **And more...** | Explore all my work | | [All repositories](https://github.com/AnanyaArora1812?tab=repositories) |
 
 ---
